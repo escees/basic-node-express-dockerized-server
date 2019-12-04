@@ -6,4 +6,3 @@ services:
       - "4000:4000"
     volumes:
       - ./app:/app
-#    command: entrypoint.sh
